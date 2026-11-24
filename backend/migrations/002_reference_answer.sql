@@ -1,0 +1,1 @@
+ALTER TABLE questions ADD COLUMN IF NOT EXISTS reference_answer TEXT NOT NULL DEFAULT '';

@@ -1,0 +1,434 @@
+[
+ {
+  "id": "c90336c6",
+  "g": 10,
+  "s": 1,
+  "label": "Official Star Journal — S'25 G10 S1 J3",
+  "q": "The atomic structure is stable and impressive, but due to exposure to some external factors such as a large amount of energy or nuclear projectiles which causes atomic fragmentation, the atomic structure may deform. By similarity, explain two factors that may cause collapse or deformation for your tunnel structure.",
+  "t": "Analogical transfer: atomic deformation → structural failure of a tunnel."
+ },
+ {
+  "id": "04eddd8d",
+  "g": 10,
+  "s": 1,
+  "label": "Official Star Journal - S'27 G10 S1 J2",
+  "q": "In your challenge you are asked to construct a bridge with a scale of 1:50 for the constructed prototype. In Math (Ma.1.01) you are studying some concepts such as the unit circle, trigonometric functions, sin law, cos law, angle of elevation and angle of depression. Choose one of the Math concepts that you will depend on for your project, and explain how you can get benefit from that concept in your project.",
+  "t": "Choosing a trigonometry concept and applying it to bridge construction."
+ },
+ {
+  "id": "eb6649f8",
+  "g": 10,
+  "s": 1,
+  "label": "Official Star Journal - S'27 G10 S1 J1",
+  "q": "(Lo 1.01) You have studied SketchUp program. Select two most important tools in your opinion and explain how you can benefit from them in your Capstone project.",
+  "t": "Selecting SketchUp tools and applying them to the Capstone project."
+ },
+ {
+  "id": "c89e1ff1",
+  "g": 10,
+  "s": 1,
+  "label": "Official Star Journal - S'27 G10 S1 J5",
+  "q": "In (Ch 1.01), you explored the concepts of scientific theories and scientific laws. During the construction of your prototype, you likely applied several related theories and laws. Describe how you used one scientific theory and one scientific law in your project, providing specific examples.",
+  "t": "Distinguishing and applying a scientific theory and a scientific law to the project."
+ },
+ {
+  "id": "0150d1c2",
+  "g": 10,
+  "s": 2,
+  "label": "Official Star Journal — S'25 G10 S2 J1",
+  "q": "(English) In some cases you need to find some information on the internet or in textbooks which requires a long time to search or read. Explain briefly the properties of scan reading and how it will help you get the required information.",
+  "t": "Applying the scan-reading skill to research efficiency."
+ },
+ {
+  "id": "49551a9e",
+  "g": 10,
+  "s": 2,
+  "label": "Official Star Journal — S'24 G10 S2 J5",
+  "q": "(Ch.1.10) Chemistry laboratory techniques (such as filtration, crystallization, evaporation, etc.) are practical skills that play an important role in performing various experiments. Suppose a student team had a capstone project that used waste heat as an input to a chemical process. Describe one laboratory technique you might depend on. Mention two precautions you need to consider for safety.",
+  "t": "Choosing a real lab technique and showing safety awareness."
+ },
+ {
+  "id": "6ce0e058",
+  "g": 10,
+  "s": 2,
+  "label": "Official Star Journal — S'24 G10 S2 J1",
+  "q": "Your project in this semester aims to use a process by-product as a source of energy. Explain the concept of a \"by-product\", and give an example of how you might use it as a source of energy.",
+  "t": "Concept definition plus a grounded application."
+ },
+ {
+  "id": "67550bee",
+  "g": 10,
+  "s": 2,
+  "label": "Official Star Journal — S'24 G10 S2 J2",
+  "q": "In Physics (1.08) you are studying pressure differences in fluids. Your team decides to produce energy to light the pass of Mount Saint Catherine, thus you plan for a field trip to the top of the mountain using a hot air balloon. What time of day or night would your team launch your balloon to achieve maximum lift at launch, and why does physics suggest you choose that time?",
+  "t": "Applying fluid-pressure physics to a real timing decision."
+ },
+ {
+  "id": "dce5890b",
+  "g": 10,
+  "s": null,
+  "label": "Official G10 Sample — J2",
+  "q": "In Chemistry you have learned about Scientific method. Explain how would you use it in your Capstone about recycling materials?",
+  "t": "Connecting the scientific method to a recycling capstone."
+ },
+ {
+  "id": "870fff12",
+  "g": 10,
+  "s": null,
+  "label": "Official G10 Sample — J3",
+  "q": "In physics you have studied about the system of forces, the equilibrium system and Newton's third law. Explain how would you use ONE of these concepts in your capstone about building block.",
+  "t": "Applying one physics concept (forces / equilibrium / Newton third law) to the building-block prototype."
+ },
+ {
+  "id": "9db20a40",
+  "g": 10,
+  "s": null,
+  "label": "Official G10 Sample — J5",
+  "q": "In Math, you are learning about \"Create, Interpret and Analyze different types of functions that model real-world situations\". Which function did you use for your Capstone Project about energy? And explain why did you use it?",
+  "t": "Choosing the function used in an energy capstone and justifying its selection."
+ },
+ {
+  "id": "a9a6ab54",
+  "g": 10,
+  "s": null,
+  "label": "Official G10 Sample — J1",
+  "q": "The STEM schools in Egypt help students prepare to become adults who are helping Egypt solve big problems called Egypt's grand challenges. The grand challenge you will work on for your first capstone is to recycle and retain garbage for recycling. Explain one example of how recycling could solve the problem of limited resources of Egypt.",
+  "t": "Explaining a concrete example of recycling addressing Egypt resource limits."
+ },
+ {
+  "id": "84f90c4b",
+  "g": 10,
+  "s": null,
+  "label": "Official G10 Sample — J1",
+  "q": "Using your best English skills, write a short paragraph explaining the meaning of \"Recycling\" as if you were writing to a preparatory school student.",
+  "t": "Explaining recycling in clear, simple language for a younger reader."
+ },
+ {
+  "id": "84666a6c",
+  "g": 11,
+  "s": 1,
+  "label": "Official Star Journal — S'25 G11 S1 J5",
+  "q": "According to the approved rubric for EDP, you should identify 10 discipline learning outcomes and their relation to your design challenge. Choose three learning outcomes that have the most impact on your project and explain this impact.",
+  "t": "Tracing specific LOs to concrete project impact."
+ },
+ {
+  "id": "bf17ed23",
+  "g": 11,
+  "s": 1,
+  "label": "Official Star Journal — S'24 G11 S1 J4",
+  "q": "There are many alternative approaches to the traditional ways of chemical-based water treatment. One of these recent trends is capacitor-based water treatment. Choose one basic property of a capacitor, and explain how it can be used to treat wastewater from a factory.",
+  "t": "Whether you can connect a physics property of capacitors to a wastewater application."
+ },
+ {
+  "id": "f206392b",
+  "g": 11,
+  "s": 1,
+  "label": "Official Star Journal — S'24 G11 S1 J5",
+  "q": "If you get different samples of wasted water obtained from different production stages of a factory, through your study of the collective properties of solutions, how can you determine which production stage produced the highest concentration of salts in water?",
+  "t": "Whether you can apply colligative-property reasoning to rank salt concentrations."
+ },
+ {
+  "id": "32912b8e",
+  "g": 11,
+  "s": 1,
+  "label": "Official Star Journal - S'26 G11 S1 J1",
+  "q": "(Bi.2.01) In this learning outcome, you studied genetically modified bacteria. Explain how your understanding of genetically modified bacteria could, hypothetically, help you choose a suitable waste material for your Capstone project. Provide two specific examples, explaining how each example could benefit your project.",
+  "t": "Using knowledge of genetically modified bacteria to choose a waste substrate."
+ },
+ {
+  "id": "f461c15f",
+  "g": 11,
+  "s": 1,
+  "label": "Official Star Journal - S'26 G11 S1 J2",
+  "q": "In your project, you are asked to measure the change in the concentration of the selected air pollutant due to repeating treatment process to remove at least 20% of the selected contaminant. By using the modeling function you studied in Math 2.01, explain which function best fits your obtained measurements, and why.",
+  "t": "Choosing the right mathematical model for repeated-treatment measurements."
+ },
+ {
+  "id": "ce8c8adf",
+  "g": 11,
+  "s": 1,
+  "label": "Official Star Journal - S'26 G11 S1 J5",
+  "q": "Imagine that you use the electrostatics principle in your project. Explain two points that show how the principles of electrostatics, such as Coulomb's Law, electric fields, and electric potential, could be applied to the design and optimization of your waste-derived material for air pollution mitigation in the Capstone Challenge.",
+  "t": "Applying electrostatics principles to design an air-pollution mitigation material."
+ },
+ {
+  "id": "89c0411c",
+  "g": 12,
+  "s": 2,
+  "label": "Official G2 S2 — J1",
+  "q": "In Chemistry, you are learning about chemical processes as an \"Introduction to Industrial Chemistry\". Choose one of these processes. Explain it, give an example of how it occurs in nature.",
+  "t": "Selecting an industrial chemical process and grounding it in a natural example."
+ },
+ {
+  "id": "35baa495",
+  "g": 12,
+  "s": 2,
+  "label": "Official G2 S2 — J1",
+  "q": "In English, you are learning about how to \"write appropriate materials for a particular writing task\". Write a message to your younger brother to explain the capstone challenge of this semester.",
+  "t": "Applying English writing-for-purpose by explaining the challenge to a young reader."
+ },
+ {
+  "id": "d82c0b1e",
+  "g": 12,
+  "s": null,
+  "label": "Official Past Paper — G12 2016 J2",
+  "q": "In Chemistry you are learning about uncertainty of measurement. Choose one measuring instrument that you are going to use in your capstone project about communication, and explain how you are going to overcome the uncertainty of its measurements.",
+  "t": "Applying measurement-uncertainty thinking to a real instrument."
+ },
+ {
+  "id": "1b001a07",
+  "g": 12,
+  "s": null,
+  "label": "Official Past Paper — G12 2016 J4",
+  "q": "In Biology you have studied the Nervous System. Compare the communication processes of the nervous system to the communication process in your Capstone project.",
+  "t": "System-level comparison across biology and project communication."
+ },
+ {
+  "id": "4727232b",
+  "g": 12,
+  "s": null,
+  "label": "Official Past Paper — G12 2016 J6",
+  "q": "Describe an oscillation that occurs in your capstone project and apply the terms amplitude and frequency in your description.",
+  "t": "Applying oscillation terminology to a real project phenomenon."
+ },
+ {
+  "id": "073e1b51",
+  "g": 12,
+  "s": null,
+  "label": "Official Past Paper — G12 2017 J5",
+  "q": "Your Capstone Challenge requires you to apply your STEM content knowledge. Select one STEM subject area connected to your current Capstone Challenge. Explain how this subject area is connected to your current Capstone Challenge. Identify a suggestion to strengthen the connection between this subject area and the Capstone Challenge and explain your idea.",
+  "t": "Articulating and strengthening a subject-capstone connection."
+ },
+ {
+  "id": "a4c59128",
+  "g": 12,
+  "s": null,
+  "label": "Official Past Paper — G12 2016 J1",
+  "q": "In your biology class you are learning about the structure and function of the nervous system and its role in communication. Explain how can you benefit from this Topic in building your capstone project about communications in terms of Structure and Function.",
+  "t": "Transferring nervous-system structure/function knowledge to the communication capstone."
+ },
+ {
+  "id": "3d533c5d",
+  "g": 12,
+  "s": null,
+  "label": "Official Past Paper — G12 2016 J5",
+  "q": "In Biology you have studied about Nervous system and in earth science you have studied about Plate Tectonics. Which of these two topics was more helpful in building your communication capstone project? Explain why.",
+  "t": "Comparative judgment of which learned topic helped most."
+ },
+ {
+  "id": "14a8b67f",
+  "g": 12,
+  "s": null,
+  "label": "Official Past Paper — G12 2017 J4",
+  "q": "In statistics you are learning to explain and apply the principles of survey design and data collection. Design a survey to study an issue related to climate change. Your answer should include the following: Survey purpose Parameters, and Sampling distribution",
+  "t": "Applying survey design and sampling concepts to a climate issue."
+ },
+ {
+  "id": "3e5db31f",
+  "g": 12,
+  "s": null,
+  "label": "Official Past Paper — G12 2016 J3",
+  "q": "Communication is the exchanging of information, Explain how light can be used for communicating information.",
+  "t": "Applying knowledge of light to communication."
+ },
+ {
+  "id": "28148adc",
+  "g": 12,
+  "s": null,
+  "label": "Official Past Paper — G12 2017 J1",
+  "q": "In Math you have started to study differentiation. How could differentiation be useful for analyzing climate data? Give an example.",
+  "t": "Applying differentiation to real climate-data analysis."
+ },
+ {
+  "id": "47a06224",
+  "g": 12,
+  "s": null,
+  "label": "Official Past Paper — G12 2017 J2",
+  "q": "In English you are learning to listen to reflect on ideas and make inferences. What is the difference between an inference and an observation? Describe an example of the difference between inference and observation based on your research into Climate Change.",
+  "t": "Distinguishing inference from observation with a climate-change example."
+ },
+ {
+  "id": "e0c83a37",
+  "g": 12,
+  "s": null,
+  "label": "Official Past Paper — G12 2017 J1",
+  "q": "In Chemistry you have been studying uncertainty in measurement. Select one measurement you might conduct in your capstone and describe with detail two possible sources of uncertainty in your measurement.",
+  "t": "Identifying concrete measurement uncertainty sources."
+ },
+ {
+  "id": "9ede1303",
+  "g": 12,
+  "s": null,
+  "label": "Official Past Paper — G12 2017 J2",
+  "q": "In Physics you have been studying about reflection and refraction which can be applied to how the sun's rays interact with the Earth. Explain how these phenomena are affecting climate change.",
+  "t": "Applying reflection/refraction to understand climate interactions."
+ },
+ {
+  "id": "23c3bab1",
+  "g": 12,
+  "s": null,
+  "label": "Official Past Paper — G12 2017 J5",
+  "q": "In Physics you have been studying oscillatory motion. Select one example of an oscillatory motion or oscillatory process associated with the climate. Explain your example using key terms including amplitude, period and frequency.",
+  "t": "Applying oscillation key terms to a climate example."
+ },
+ {
+  "id": "af5149dd",
+  "g": 12,
+  "s": null,
+  "label": "Official Past Paper — G12 2017 J4",
+  "q": "In Earth Science you have been studying how global positioning systems (GPS) technology is used to measure the motion of tectonic plates. Suggest a way to use GPS technology to address the climate change issue. Explain your answer.",
+  "t": "Transferring GPS/tectonics technology to climate-change monitoring."
+ },
+ {
+  "id": "cc39a98f",
+  "g": 12,
+  "s": null,
+  "label": "Official Star Journal — S'25 G12 J5",
+  "q": "Explain two points in your project showing how the principles of geometrical optics, such as Snell’s law and total internal reflection, can be applied to the design and implementation of a multi-sensory system for monitoring conditions associated with the chosen problem.",
+  "t": "Applying geometrical optics to a sensing system."
+ },
+ {
+  "id": "f86cff4e",
+  "g": 12,
+  "s": null,
+  "label": "Official Past Paper — G12 2017 J1",
+  "q": "How would you build a communication system using what you know about the parts and function of nervous system. Be sure to compare the two systems in your answer.",
+  "t": "Engineering a communication system inspired by the nervous system, with comparison."
+ },
+ {
+  "id": "4c34ac99",
+  "g": 12,
+  "s": null,
+  "label": "Official Past Paper — G12 2016 J1",
+  "q": "In Chemistry you are learning about Scientific Reports, choose one research paper you already have about your Capstone, Describe its methodology, analysis, findings, and conclusion. Explain why it can (or cannot) be considered as a Scientific Report.",
+  "t": "Evaluating a research paper against the standards of a scientific report."
+ },
+ {
+  "id": "04137a1f",
+  "g": 12,
+  "s": null,
+  "label": "Official Past Paper — G12 2016 J4",
+  "q": "Using a Global Positioning System (GPS) is a form of communication. Explain how GPS technology could be helpful in your Capstone.",
+  "t": "Applying GPS/communication concepts to the capstone."
+ },
+ {
+  "id": "d922644c",
+  "g": 12,
+  "s": null,
+  "label": "Official Star Journal — S'24 G12 J1",
+  "q": "Your project this semester is a first-class humanitarian project, which means caring for all members of society in general and caring for groups with special needs in particular. Accordingly, what is the geographical area in Egypt in which you intend to implement your project as a first stage? Explain two reasons for choosing this geographical area.",
+  "t": "Connecting project scope to a real Egyptian context and justifying it."
+ },
+ {
+  "id": "fb83155c",
+  "g": 12,
+  "s": null,
+  "label": "Official Past Paper — G12 2017 J4",
+  "q": "In English, you are learning about determining an author's point or purpose. Read the following paragraph and describe the author's point of view about global warming. Provide an example from the paragraph to support your conclusion. “Global warming is not an output of computer models; it is a conclusion based on observations of a great many global indicators. By far the most straightforward evidence is the actual surface temperature record. While there are places — in England, for example — that have records going back several centuries, the two major global temperature analyses can only go back around 150 years due to their requirements for both quantity and distribution of temperature recording stations.”",
+  "t": "Identifying author viewpoint from textual evidence."
+ },
+ {
+  "id": "470f698f",
+  "g": 12,
+  "s": null,
+  "label": "Official Past Paper — G12 2016 J6",
+  "q": "In Chemistry you have been learning about good laboratory investigation. Describe a well designed experiment for your capstone prototype.",
+  "t": "Designing a rigorous experiment for the prototype based on lab practice."
+ },
+ {
+  "id": "4d35dc8f",
+  "g": 12,
+  "s": null,
+  "label": "Official Past Paper — G12 2017 J3",
+  "q": "In Chemistry you have been studying what makes a good experimental design. Describe an example of a good experimental design related to the challenge of climate change and explain why it is a good experimental design.",
+  "t": "Judging experimental design quality in a climate-change context."
+ },
+ {
+  "id": "6a115e60",
+  "g": 12,
+  "s": null,
+  "label": "Official Past Paper — G12 2016 J5",
+  "q": "In Biology you have studied the location and function of several types of sensory receptors. What types of “sensory receptors” are you using in your Capstone project and what are their functions?",
+  "t": "Mapping biological sensory-receptor concepts onto capstone sensors."
+ },
+ {
+  "id": "4ce662e8",
+  "g": 12,
+  "s": null,
+  "label": "Official Past Paper — G12 2017 J3",
+  "q": "In Computer Science you have been studying the requirements to make a mobile application. Mobile applications can have advantages over desktop or computer applications. (1) Describe a new mobile application that could be useful for the challenges of climate change. Include the aim, the target audience, and the data that is communicated. (2) Explain why this mobile application would be more useful than a desktop or computer application?",
+  "t": "Designing a climate-focused mobile app and justifying its mobile advantage."
+ },
+ {
+  "id": "ec3ebfaf",
+  "g": 12,
+  "s": null,
+  "label": "Official Past Paper — G12 2016 J2",
+  "q": "In Physics you are learning about optics. Explain how this topic can be related to your capstone project about communication.",
+  "t": "Relating optics concepts to a communication capstone."
+ },
+ {
+  "id": "3eb5c13e",
+  "g": null,
+  "s": null,
+  "label": "Practice � Water Theme — J5",
+  "q": "Improving sources of clean water requires many samples to be taken. Explain how to use the fundamental counting principle, permutations, and combinations to determine the appropriate number of samples for your project.",
+  "t": "Applying counting principles / permutations / combinations to sample planning."
+ },
+ {
+  "id": "d191ac3f",
+  "g": null,
+  "s": null,
+  "label": "Practice � Water Theme — J2",
+  "q": "Egypt has a problem with water. There are many ways to deal with this problem like water purification or better controlling the systems of irrigation and desalination. Each of these processes needs mathematical functions to control them. Choose one mathematical function that can be used in your Capstone project about water, and explain its purpose in your work.",
+  "t": "Choosing a mathematical function and justifying its role in a water project."
+ },
+ {
+  "id": "546b0dbd",
+  "g": null,
+  "s": null,
+  "label": "Practice � Water Theme — J5",
+  "q": "You have studied in Chemistry, purification of the water supply, and in Biology, Genetically Modified Organisms (GMO). Which of these two topics was most helpful in building your capstone project? Explain your answer.",
+  "t": "Choosing between two studied topics and justifying which helped the capstone most."
+ },
+ {
+  "id": "77cb6c7d",
+  "g": null,
+  "s": null,
+  "label": "Practice � Water Theme — J3",
+  "q": "In physics you have studied about gravity. Explain how gravity would affect or not affect your capstone project about water.",
+  "t": "Applying the physics concept of gravity to a water capstone scenario."
+ },
+ {
+  "id": "413f4854",
+  "g": null,
+  "s": null,
+  "label": "Practice � Water Theme — J4",
+  "q": "In Chemistry you have studied about properties and types of water from different natural sources. Explain naturally occurring dissolved and suspended materials in water you are dealing with at your capstone project.",
+  "t": "Applying chemistry knowledge of dissolved/suspended water materials to the project."
+ },
+ {
+  "id": "ffd88116",
+  "g": null,
+  "s": null,
+  "label": "Practice � Water Theme — J4",
+  "q": "In mechanics you have learned about Kinetic friction and Static friction. Which kind of friction may be presented at your capstone prototype? Explain how.",
+  "t": "Applying friction concepts (kinetic vs static) to the team prototype."
+ },
+ {
+  "id": "d713250f",
+  "g": null,
+  "s": null,
+  "label": "Practice � Water Theme — J3",
+  "q": "In Earth Science you have learned about the human and natural factors that control water resources. Describe how you used this information in your capstone.",
+  "t": "Connecting Earth Science water-resource factors to the capstone work."
+ },
+ {
+  "id": "2f6da03f",
+  "g": null,
+  "s": null,
+  "label": "Practice � Water Theme — J2",
+  "q": "Egypt suffers from water pollution, which can cause many diseases. From your study in chemistry, identify one chemical, physical, or biological process that can be used to make salt water drinkable. Explain how this process works.",
+  "t": "Applying a studied chemistry/physical/biological process to a real water-desalination need."
+ }
+]

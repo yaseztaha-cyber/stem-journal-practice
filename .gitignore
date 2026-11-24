@@ -1,0 +1,22 @@
+node_modules/
+dist/
+.env
+backend/.env
+backend/dist/
+frontend/dist/
+*.log
+.DS_Store
+Thumbs.db
+
+# Private data / large artifacts
+*.pdf
+*.xlsx
+*.zip
+drive-download-*/
+old_journals_extracted/
+brag-output/
+old_journals*/
+*.db
+*.sqlite
+
+desktop/release/

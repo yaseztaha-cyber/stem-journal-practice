@@ -1,0 +1,116 @@
+S’24 – G12 Journals 
+ 
+Journal 1 
+ 
+If you are a leader of your group in the Capstone in this semester, What is your strategy to lead 
+your team and explain why you chose this strategy? 
+Personal Reflection/Team Collaboration 
+ 
+Identifying and defining the problem is the initial and basic step in EDP processes, and your 
+project in this semester deals with a problem according to the needs of chosen case. How can 
+you avoid getting distracted between different problems when starting to think about your 
+project? 
+Using the Engineering Design Process (EDP) 
+ 
+Your project this semester is a first-class humanitarian project, which means caring for all 
+members of, society in general and caring for groups with special needs in particular. Accordingly, 
+what is the geographical area in Egypt in which you intend to implement your project as a first 
+stage, Explain two reasons for choosing this geographical area. 
+Learning Transfer 
+ 
+ 
+ 
+Journal 2 
+ 
+In the previous two years your group members were 5 or 4 students but this year the number is 
+less. Explain one positive effect and another negative one on your work related to the number of 
+team members. 
+Personal Reflection/Team Collaboration 
+ 
+During your search to define your problem you got a set of information, but when you start 
+searching for the prior solution you find another set of information and data that conflicts with 
+what you got previously, explain two steps to overcome this issue* 
+Using the Engineering Design Process (EDP) 
+ 
+In (CH.3.01) you have learned the scientific methodology of thinking including three steps: 
+findings, analysis, and conclusion, explain how you used these three steps to choose the chronic 
+disease you will work on in your project. 
+Learning Transfer 
+ 
+Concerning (Ph.3.01) in which you deal with the wave motion. Select a range of electromagnetic 
+waves that you may use in your project, and explain the reason for using it to develop a smart 
+system based on sensing, communicating, data analysis, controlling, and decision making which 
+enhances persons with disabilities or chronic diseases. 
+Learning Transfer 
+ 
+ 
+Journal 3 
+ 
+You have moved between more than one work group during previous projects. How did you 
+adapt to the new methods of work and the different methods of organization in each group, and 
+how did the nature of the project affect this adaptation? 
+Personal Reflection/Team Collaboration 
+ 
+In your project you have been started to build your prototype, and you will consider the safety 
+precaution. Explain two safety rules you will follow and why you select them? 
+Using the Engineering Design Process (EDP) 
+ 
+In (Ph.3.02) you have studied the application of Electromagnetic waves (em), and your capstone 
+in this semester based on communication which needs to transfer data by using of (em), Explain 
+the mechanism of sending and receiving signals in you project and explain the reason of the 
+possibility of signal loss. 
+Learning Transfer 
+ 
+In your project you will develop a smart system that performs sensing, communicating, data 
+analysis, controlling and decision making. In Math 3.02 you studied Local maximum or minimum. 
+Determine two variables and explain how one of them makes the system have maximum 
+performance and the other makes the system have minimum performance  
+Learning Transfer 
+ 
+ 
+Journal 4 
+ 
+This is grade- 12 and the percentage for the capstone project is only 20% not like the previous 
+two years. If a colleague suggested that the time allocated for the Capstone could be better used 
+to study other subjects, what would your comment be on your colleague and what advice can 
+you give him in this regard? 
+Personal Reflection/Team Collaboration 
+ 
+The portfolio is a one of the work that you have presented to be evaluated 
+One of your colleagues suggest to delay the working in their portfolio after ending their project 
+because it takes a lot of time , what is your opinion ? 
+Explain the better way used to present a very clear , organized , sufficient portfolio. 
+Using the Engineering Design Process (EDP) 
+ 
+Math (MA.3.03) In your capstone project you are asked to design and implement a smart system 
+that performs sensing, communicating, data analysis, controlling, and decision-making. In 
+(MA.3.02) you have studied the critical points. Explain how this concept helps you in your project 
+Learning Transfer 
+ 
+In (CH.3.03) you have studied the steps of robust experimental design. Explain in detail the two 
+suitable steps from the robust experimental design you can apply to your project in the current 
+step of EDP. 
+Learning Transfer 
+ 
+Journal 5 
+ 
+During the presentation, you may face some unexpected situations. Explain three unexpected 
+critical situations you may face, and how you can overcome each. 
+Personal Reflection/Team Collaboration 
+ 
+ 
+During finishing the analysis part of your project, you are supposed to connect your prototype 
+testing results with the design requirements. 
+Select two design requirements and explain the connection with your prototype testing results. 
+Using the Engineering Design Process (EDP) 
+ 
+Through your study in physics (PH.3.03). As an Introduction to communication and 
+communication systems. Explain the extent to which you have benefited from the idea of 
+magnification, converging, and divergent of light to improve your project* 
+Learning Transfer 
+ 
+In CH.3.02; you have studied the concepts of uncertainty, precision, and accuracy. While testing 
+your prototype you may get some positive and negative results, explain how can you distinguish 
+between the three concepts, mentioned previously concerning your project's results. 
+Learning Transfer 
+ 

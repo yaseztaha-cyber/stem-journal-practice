@@ -1,0 +1,114 @@
+{
+  "name": "stem-journal-practice-desktop",
+  "version": "1.0.0",
+  "private": true,
+  "description": "STEM Journal Practice desktop app — bundles the API server and loads the built frontend.",
+  "author": "STEM Journal Practice",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "node test-backend-setup.js && node test-embedded-db.js && node test-updater.js && node test-aiKeys.js",
+    "release": "node scripts/bump-version.js && npm run dist",
+    "dist": "npm test && node scripts/stage-backend-deps.js && npm run build --prefix ../frontend && npm run build --prefix ../backend && electron-builder --win"
+  },
+  "devDependencies": {
+    "asar": "^3.2.0",
+    "electron": "^33.0.0",
+    "electron-builder": "^25.1.8"
+  },
+  "build": {
+    "appId": "com.stemjournal.desktop",
+    "productName": "STEM Journal Practice",
+    "directories": {
+      "output": "release",
+      "buildResources": "build"
+    },
+    "files": [
+      "main.js",
+      "preload.js",
+      "backend-setup.js",
+      "embedded-db.js",
+      "aiKeys.js",
+      "updater.js",
+      "update-feed.json",
+      "package.json",
+      "node_modules/@embedded-postgres/windows-x64/**",
+      "node_modules/argparse/**",
+      "node_modules/async-exit-hook/**",
+      "node_modules/builder-util-runtime/**",
+      "node_modules/debug/**",
+      "node_modules/electron-updater/**",
+      "node_modules/electron-updater/node_modules/**",
+      "node_modules/embedded-postgres/**",
+      "node_modules/fs-extra/**",
+      "node_modules/graceful-fs/**",
+      "node_modules/js-yaml/**",
+      "node_modules/jsonfile/**",
+      "node_modules/lazy-val/**",
+      "node_modules/lodash.escaperegexp/**",
+      "node_modules/lodash.isequal/**",
+      "node_modules/ms/**",
+      "node_modules/pg/**",
+      "node_modules/pg-connection-string/**",
+      "node_modules/pg-int8/**",
+      "node_modules/pg-pool/**",
+      "node_modules/pg-protocol/**",
+      "node_modules/pg-types/**",
+      "node_modules/pgpass/**",
+      "node_modules/postgres-array/**",
+      "node_modules/postgres-bytea/**",
+      "node_modules/postgres-date/**",
+      "node_modules/postgres-interval/**",
+      "node_modules/sax/**",
+      "node_modules/semver/**",
+      "node_modules/split2/**",
+      "node_modules/tiny-typed-emitter/**",
+      "node_modules/universalify/**",
+      "node_modules/xtend/**"
+    ],
+    "asarUnpack": [
+      "node_modules/@embedded-postgres/windows-x64/native/**/*"
+    ],
+    "extraResources": [
+      {
+        "from": "../frontend/dist",
+        "to": "frontend"
+      },
+      {
+        "from": "../backend",
+        "to": "backend",
+        "filter": [
+          "dist/**",
+          "!dist/**/*.map",
+          "migrations/**",
+          "node_modules/**",
+          "package.json"
+        ]
+      }
+    ],
+    "win": {
+      "icon": "build/icon.ico",
+      "target": [
+        "nsis",
+        "portable"
+      ],
+      "signAndEditExecutable": false
+    },
+    "nsis": {
+      "oneClick": false,
+      "allowToChangeInstallationDirectory": true,
+      "createDesktopShortcut": true
+    },
+    "publish": {
+      "provider": "generic",
+      "url": "https://updates.example.com/"
+    }
+  },
+  "allowScripts": {
+    "electron@33.4.11": true
+  },
+  "dependencies": {
+    "electron-updater": "^6.8.9",
+    "embedded-postgres": "^18.4.0-beta.17"
+  }
+}

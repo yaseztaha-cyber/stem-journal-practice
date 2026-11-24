@@ -1,0 +1,205 @@
+import { AcademyExampleSeed } from './academyTypes';
+
+// Keyed `${unitSlug}#${lessonIndex}`. Merged at seed time (no edits to units 1-15 files).
+export const LESSON_TAKEAWAYS: Record<string, string> = {
+  'strong-academic-answer#0': 'Academic writing proves claims with evidence and reasoning. Before submitting, check the four silent questions: every part answered, specific evidence, WHY and HOW explained, learning shown.',
+  'strong-academic-answer#1': 'RED, YELLOW, GREEN, and BLUE measure how strongly criteria are satisfied — coverage, evidence, reasoning, insight. Vocabulary difficulty is never on the ladder.',
+  'understanding-questions#0': 'Each verb demands different thinking: describe shows, explain gives causes, evaluate judges with criteria. Name the verb before you plan.',
+  'understanding-questions#1': 'Decode every question into number, action, object, context, and reason — then tick each part against your finished answer.',
+  'strong-paragraphs#0': 'A strong paragraph makes all four moves — claim, evidence, explanation, connection — in any order, but never skips one.',
+  'strong-paragraphs#1': 'Diagnose weak paragraphs with four questions (point? proof? why? so what?) and repair exactly the missing move.',
+  'evidence-examples#0': 'If a grader cannot check it, it is not evidence. Replace adjectives with events, numbers, and observations.',
+  'evidence-examples#1': 'Run WHEN, WHAT HAPPENED, WHAT YOU DID, WHAT CHANGED, and WHAT YOU LEARNED on every vague sentence until each carries a checkable fact.',
+  'reflection-depth#0': 'Description tells what happened; reflection adds causes; deep reflection adds a transferable lesson plus verified change.',
+  'reflection-depth#1': 'Build every reflection as event → interpretation → lesson → change, and read it backwards to test each link.',
+  'blue-method#0': 'Ten yes-or-no checks turn vague worry into concrete repairs. Fix evidence, WHY, and change first — they move the most levels.',
+  'blue-method#1': 'Push every draft one stage further: question → answer → evidence → explanation → reflection → insight. Insight is reflection others can reuse.',
+  'academic-language#0': 'Precision is evidence made readable: exact verbs, named details, zero decoration. Simple and checkable beats complicated and foggy.',
+  'academic-language#1': 'Every because, therefore, and however must point at real logic. Fake transitions fail louder than none at all.',
+  'synthesis-transfer#0': 'Synthesis connects knowledge into decisions; summary lists topics. Delete one link — if the explanation survives, it was never connected.',
+  'synthesis-transfer#1': 'No changed decision means no transfer. Name the concept, apply it, choose differently, report the result, keep the rule.',
+  'teamwork-writing#0': 'Graders score your role, not the team: situation, your separated actions, problem, resolution, lesson.',
+  'teamwork-writing#1': 'Write conflict as a process problem with your resolution move — fair to teammates, revealing about you, ending in changed behavior.',
+  'edp-writing#0': 'Answer all eight stage questions for one stage done deeply; a tour of ten shallow stages earns nothing.',
+  'edp-writing#1': 'Write every iteration as evidence → diagnosis → change → verification, and close with a rule another team could copy.',
+  'research-fundamentals#0': 'Topics cannot be answered; only questions can. Name the factor, the outcome, and the context before collecting a single source.',
+  'research-fundamentals#1': 'Trace every number to primary data. Methods, data, review, and currency build trust; anonymity and excitement do not.',
+  'research-fundamentals#2': 'Tools propose, researchers dispose: narrow every candidate question until it fits your time, materials, and access.',
+  'research-paper#0': 'Title names variables; the abstract miniaturizes the paper; the introduction earns its existence with problem, known work, gap, and direction.',
+  'research-paper#1': 'Methods must enable repeats; results must report plainly. Interpretation waits for the discussion — keep each section on its job.',
+  'research-paper#2': 'Scope every conclusion to its evidence, state limits before critics do, and cite everything that is not your own finding.',
+  'sources-citations#0': 'Rebuild ideas in your own structure, apply them to your point, and cite. Same skeleton with new words is still copying.',
+  'sources-citations#1': 'Labeled notes make honest writing the default: quotes with page numbers in one column, your reactions in another.',
+  'results-discussion#0': 'Label every sentence data, interpretation, or claim — then cut each claim your data cannot lift.',
+  'results-discussion#1': 'Report surprises with cause, fix, and retest. Handled problems become credibility; hidden ones become suspicion.',
+  'revision-editing#0': 'Revise meaning before wording: answer, reasoning, evidence, depth, structure, wording — mechanics come last.',
+  'revision-editing#1': 'Tick each BLUE CHECK box only with highlighted proof text, then read the draft aloud to catch what eyes miss.',
+  'blue-masterclass#0': 'A BLUE answer is four labeled parts: claim, evidence, explanation, analysis. Label your draft — any missing label is your next edit.',
+  'blue-masterclass#1': 'Repair in order: evidence before explanation. Each graft adds exactly one labeled move.',
+  'blue-masterclass#2': 'Push explained drafts one stage further into reusable rules, and swap every vague noun for its measurement.',
+  'blue-masterclass#3': 'GREEN to BLUE needs one analysis sentence plus one precision swap. Graft; do not transplant.',
+  'blue-masterclass#4': 'Write fast, analyze dimensions honestly, revise only the weakest two, and compare versions — the sentence about what changed is the real certificate.',
+};
+
+export const EXTRA_EXAMPLES: Record<string, AcademyExampleSeed> = {
+  'strong-academic-answer#0': {
+    weak: 'The experiment was interesting and I learned many useful things from doing it.',
+    strong: 'Titrating the vinegar samples showed our first two trials overshot the endpoint by 3 mL because we added base too quickly; slowing to dropwise addition brought all three repeat trials within 0.2 mL. I learned that technique error, not the indicator, was our largest uncertainty.',
+    why: 'The strong version replaces "interesting" and "many things" with a measured error, its cause, the fix, and the named lesson — every layer checkable.',
+  },
+  'strong-academic-answer#1': {
+    weak: 'My prototype deserves a good grade because I worked very hard on it for many weeks.',
+    strong: 'The revised hinge survived 500 open-close cycles without cracking, up from 40 in the first version, because the fillet redistributed stress away from the corner. Effort is visible in the process log; quality is visible in the numbers.',
+    why: 'Effort claims ask for trust; measurement claims allow verification. Graders reward what they can check: cycles, cause, mechanism.',
+  },
+  'understanding-questions#0': {
+    weak: 'Question: "Justify your material choice." Answer: a long description of what the material looks like.',
+    strong: 'Question: "Justify your material choice." Answer: "We chose PETG over PLA because our outdoor sensor housing needed UV resistance; after 30 days outside, the PLA sample warped 4 mm while PETG held shape — so the extra printing time was worth it."',
+    why: 'Justify demands reasons defending a choice against alternatives. Description answers a different verb, so even perfect description scores low.',
+  },
+  'understanding-questions#1': {
+    weak: 'Question: "Compare your two designs and recommend one." Answer: a paragraph praising design A only.',
+    strong: 'Decoder: NUMBER two designs; ACTION compare + recommend; OBJECT both designs against criteria; CONTEXT the project constraints; REASON test evidence. A complete answer covers A, covers B, contrasts them, then recommends with reasons.',
+    why: 'The decoder exposes the invisible half: comparison requires both sides, and recommendation requires criteria. Praise for one side fails three checks.',
+  },
+  'strong-paragraphs#0': {
+    weak: 'Food packaging matters a lot. Many foods go bad quickly. Better packaging would help everyone a great deal.',
+    strong: 'Uncoated strawberries in our trial softened by day three at room temperature (claim + evidence). A chitosan coating slows moisture loss by forming a semi-permeable film, which is why coated berries stayed firm until day six (explanation). For low-cost packaging, barrier films beat thicker plastic (connection).',
+    why: 'Days, mechanism, and a design rule replace three slogans. Each move is present and each sentence earns its place.',
+  },
+  'strong-paragraphs#1': {
+    weak: 'The graph shows the temperature went up and then it went down which was interesting and important for our conclusions.',
+    strong: 'The chamber temperature climbed to 62°C by minute nine, then fell after we opened the vent (claim + evidence). The drop shows ventilation dominates insulation above 55°C (explanation), so all future trials will log vent position alongside temperature (connection).',
+    why: 'Diagnosis of the weak version: numbers without meaning, "interesting" without interpretation, no forward link. The repair adds explanation and connection.',
+  },
+  'evidence-examples#0': {
+    weak: 'The material selection was difficult and took a long time to decide.',
+    strong: 'Choosing between ABS and nylon took two weeks because the supplier datasheets disagreed on flexural strength by 18 MPa, so we printed test bars of each and broke them ourselves: nylon held 12% more load before yielding.',
+    why: '"Difficult" and "long time" become a named disagreement, a measurement, and a self-run test — difficulty converted into evidence.',
+  },
+  'evidence-examples#1': {
+    weak: 'Our design iteration improved performance significantly.',
+    strong: 'WHEN: trial four, Tuesday. WHAT HAPPENED: flow stalled at 0.3 L/min. WHAT WE DID: replaced mesh with gravel pre-filter. WHAT CHANGED: flow held 1.1 L/min for ten minutes. WHAT WE LEARNED: pre-filter by debris type first.',
+    why: 'All five converter questions answered, each with a checkable fact. "Significantly" is gone because the numbers now speak.',
+  },
+  'reflection-depth#0': {
+    weak: 'The field trip to the water plant was educational and eye-opening for our whole team.',
+    strong: 'At the treatment plant I saw operators backwash filters on pressure readings, not schedules — the opposite of our fixed-interval plan. I realized our "regular maintenance" was calendar superstition, so I rebuilt our protocol around pressure thresholds, cutting unnecessary washes by half.',
+    why: 'A specific observation collides with the old assumption, producing a named lesson and a changed protocol with a result. "Eye-opening" alone opens nothing.',
+  },
+  'reflection-depth#1': {
+    weak: 'We failed, then we tried harder, and eventually it worked. Never give up.',
+    strong: 'Three failed seals in a row forced me to stop blaming the gasket supplier and examine our groove depth — 0.5 mm shallower than spec. The lesson was uncomfortable: our CAD, not their rubber, was at fault. I now verify mating dimensions before ordering any sealing part.',
+    why: 'Event, uncomfortable interpretation (our fault, not theirs), transferable lesson, and a new verification habit. Posters say "never give up"; reflection says what changed.',
+  },
+  'blue-method#0': {
+    weak: 'Draft: "Sensors are important for smart systems. We used good sensors and got nice results." Checks failed: 2, 3, 4, 5, 6, 7, 9.',
+    strong: 'Same ideas repaired: "We chose the DHT22 over the DHT11 because our greenhouse controller needs ±0.5°C accuracy; side-by-side logging over 48 hours showed the DHT11 drifting 1.8°C at noon. Accurate sensing cut false irrigation triggers from nine to one per week — so I now spec sensors by required tolerance, not price." Checks passed: all ten.',
+    why: 'Nothing was deleted — evidence, mechanism, project link, lesson, and change were added. The checklist located every gap precisely.',
+  },
+  'blue-method#1': {
+    weak: 'Stops at ANSWER + EVIDENCE: "We insulated the box. Heat loss dropped 30%." No reasoning, no lesson, no reuse.',
+    strong: 'Full flow: insulated with foam board (answer) → loss fell from 42 W to 29 W (evidence) → because conduction through walls dominated, not the lid gap (explanation) → insulate the dominant path first (reflection) → "map losses before buying material" (insight for any team).',
+    why: 'Two extra stages — reflection and insight — are exactly the distance between GREEN and BLUE. Same facts, deeper journey.',
+  },
+  'academic-language#0': {
+    weak: 'We utilized a whole bunch of different stuff in order to basically make the thing work way better than before.',
+    strong: 'We replaced the mesh pre-filter with 5 mm gravel, which held flow above 1.0 L/min for the full ten-minute trial.',
+    why: 'Every foggy phrase ("a whole bunch", "basically", "way better") became a named object with a measurement. Shorter, heavier, academic.',
+  },
+  'academic-language#1': {
+    weak: 'The motor was hot. Therefore the experiment failed. Moreover, the data was bad.',
+    strong: 'The motor housing reached 78°C after twelve minutes, exceeding the 60°C rating. As a result, thermal shutdown halted trial three at minute twelve, so all timing data from that run was discarded.',
+    why: 'Each transition now points at verified logic: rating exceeded → shutdown → data invalid. The weak version asserts connections it never proves.',
+  },
+  'synthesis-transfer#0': {
+    weak: 'We learned about pH, solubility, and filtration. All three topics were relevant to water treatment.',
+    strong: 'Solubility rules predicted calcium carbonate would precipitate above pH 8 — and our filter clogged exactly there. That single connection merged three topics into one decision: cap the buffer at pH 7.4, which held flow stable across all six trials.',
+    why: 'One causal chain fuses three subjects into a decision with a result. Remove any link and the reasoning collapsers — proof of synthesis, not listing.',
+  },
+  'synthesis-transfer#1': {
+    weak: 'Physics helped our bridge design because forces are important in structures.',
+    strong: 'Moment calculations showed the midspan joint carrying triple the load of the ends, so we doubled only that joint instead of the whole span — saving 90 grams. Physics did not "help"; one equation redirected material exactly where stress demanded it.',
+    why: 'Named concept, precise application, measured saving. The weak version praises physics; the strong version spends it.',
+  },
+  'teamwork-writing#0': {
+    weak: 'Everyone contributed equally and we had great synergy throughout the project.',
+    strong: 'I maintained the shared parts list after two orders duplicated $40 of sensors; from then on nothing was purchased without a checklist tick. My visible contribution was boring and administrative — and it saved the budget twice.',
+    why: 'A named, unglamorous role with a dollar figure beats "synergy". Graders remember the checklist; they forget the adjectives.',
+  },
+  'teamwork-writing#1': {
+    weak: 'There were some disagreements but we resolved them maturely like professionals.',
+    strong: 'When the coding and hardware sub-teams blamed each other for the missed demo, I ran a joint 30-minute fault isolation: sensor logs proved the wiring, not the code, dropped packets. Blame ended because evidence replaced opinion — a facilitation move I now use in every dispute.',
+    why: 'Process (joint isolation), personal move (ran it), evidence (logs), transferable method. "Maturely" claims virtue; the story demonstrates it.',
+  },
+  'edp-writing#0': {
+    weak: 'During ideation we brainstormed many ideas and picked the best one to prototype.',
+    strong: 'Ideation produced eleven concepts; we scored each against cost, build time, and testability, which eliminated nine in twenty minutes. Scoring first taught me that fast, explicit criteria beat long debates — our selection meeting dropped from two hours to thirty minutes.',
+    why: 'Count, method, time saved, lesson. "Many ideas" and "best one" describe nothing a grader can evaluate.',
+  },
+  'edp-writing#1': {
+    weak: 'We tested, found problems, fixed them, and tested again until everything worked.',
+    strong: 'Vibration testing cracked the mount at 40 Hz (evidence) — resonance, not material weakness (diagnosis). A rubber damper shifted the natural frequency away from the motor band (change); five clean trials verified it (proof). Iteration count: one, because the diagnosis was right.',
+    why: 'Four links, each labeled, ending in a principle about diagnosing before fixing. The weak version compresses all thinking into "fixed them".',
+  },
+  'research-fundamentals#0': {
+    weak: 'Topic: "Plastic waste." (No question, no variables — a library trip with no destination.)',
+    strong: 'Question: "Does shredded PET bottle fiber increase the compressive strength of classroom concrete mixes at 5% volume?" Factor, outcome, proportion, context — testable next week.',
+    why: 'Every vague noun got replaced by something measurable. The strong question contains its own experiment design.',
+  },
+  'research-fundamentals#1': {
+    weak: 'Source: a viral video claiming a miracle material, cited as proof it works.',
+    strong: 'Source: a peer-reviewed paper reporting tensile values with sample size n=30 and disclosed funding. Used for the numbers; its optimistic conclusion flagged as author interpretation, not fact.',
+    why: 'Credibility judged by methods, data, and review — and even good sources get their claims separated from their data.',
+  },
+  'research-fundamentals#2': {
+    weak: 'Builder output accepted as-is: a question needing an electron microscope the school lacks.',
+    strong: 'Same output narrowed twice: from microstructure to phone-camera crack measurement over two weeks — same curiosity, feasible instrument.',
+    why: 'Feasibility is a research skill, not surrender. The question survived; only the instrument changed.',
+  },
+  'research-paper#0': {
+    weak: 'Title: "Water: An Amazing Journey." Abstract: "We did a project about water and learned a lot."',
+    strong: 'Title: "Effect of gravel pre-filtration on canal-water turbidity." Abstract: "Six trials tested gravel versus mesh pre-filters; gravel held flow above 1.0 L/min for ten minutes versus four for mesh, supporting staged pre-filtration for drip-line use."',
+    why: 'Variables in the title; purpose, method, result, and conclusion in the abstract. The weak version promises a journey and delivers a postcard.',
+  },
+  'research-paper#1': {
+    weak: 'Methods: "We did the experiment properly." Results: "It worked great, proving our hypothesis completely."',
+    strong: 'Methods: "Three gravel sizes (2, 5, 10 mm) × two flow rates, turbidity logged every minute with a calibrated meter." Results: "5 mm held flow longest (10 min); 2 mm clogged at minute six; 10 mm passed debris."',
+    why: 'Repeatable procedure, plain numbers, zero adjectives. Interpretation waits its turn in the discussion.',
+  },
+  'research-paper#2': {
+    weak: 'Conclusion: "This changes everything we know about filtration." Limitations: none mentioned.',
+    strong: 'Conclusion: "Within classroom conditions, 5 mm gravel staging extended stable flow 2.5× over mesh — worth field-testing; single water source and ten-minute windows limit generality."',
+    why: 'Scope matches evidence; limits are stated, not hidden; next work is named. Restrained claims are stronger claims.',
+  },
+  'sources-citations#0': {
+    weak: 'Original: "Biofilms increase pipe friction significantly." Student: "Biofilms raise pipe friction considerably." (Skeleton kept — copying.)',
+    strong: 'Student: "Because friction losses in our pipe matched the biofilm pattern reported by Author (year), we scheduled cleanings by pressure rise rather than calendar." (Rebuilt, applied, cited.)',
+    why: 'The strong version does something with the source — drives a maintenance decision — proving comprehension that synonym-swapping never shows.',
+  },
+  'sources-citations#1': {
+    weak: 'Notes: three pasted paragraphs, no marks, no pages. Paper: two lightly edited, uncited. Defense: "I forgot which was mine."',
+    strong: 'Notes: QUOTE p.12 in left column, "MY TAKE: matches our trial-3 clogging" in right. Paper: paraphrase + citation + page. Defense: unnecessary.',
+    why: 'The system removes memory from the honesty equation. Forgetting becomes impossible when labels persist.',
+  },
+  'results-discussion#0': {
+    weak: 'Data (one rooftop sensor, three days) → "Rooftop solar can power the whole school district."',
+    strong: 'Same data → "South-facing rooftop panels averaged 4.1 kWh/day over three clear days — promising for our lab wing; cloudy-day and winter data still needed before wider claims."',
+    why: 'Conditions, numbers, and open questions replace the leap. The claim now fits inside its evidence like a foot in a shoe.',
+  },
+  'results-discussion#1': {
+    weak: 'An outlier trial deleted silently; discussion claims "consistent results across all trials."',
+    strong: 'Outlier reported: trial four ran during a dust storm; excluded from means with reason stated, discussed as a robustness gap for outdoor deployment.',
+    why: 'The anomaly became the most interesting paragraph — a deployment risk identified — instead of a hidden threat to credibility.',
+  },
+  'revision-editing#0': {
+    weak: 'Revision pass: fixed headings, bolded keywords, corrected three typos. Unchanged: missing second strategy, zero measurements, slogan conclusion.',
+    strong: 'Revision pass: added the missing strategy with trial data, converted two slogans into because-sentences, cut one decorative paragraph. Headings untouched — they were never the problem.',
+    why: 'Layer order enforced: meaning first, cosmetics last. The weak pass rearranged deck chairs; the strong pass fixed the hull.',
+  },
+  'revision-editing#1': {
+    weak: 'BLUE CHECK completed from memory: all boxes ticked in eight seconds, draft untouched.',
+    strong: 'BLUE CHECK with highlighter: evidence box ticked after marking two measurements, vague box unticked — "significantly" found twice and replaced with numbers, then ticked.',
+    why: 'Proof-backed ticks convert ritual into revision. Eight honest seconds beat eight dishonest ones only when text gets highlighted.',
+  },
+};

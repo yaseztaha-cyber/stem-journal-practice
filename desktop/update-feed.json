@@ -1,0 +1,4 @@
+{
+  "_comment": "Update feed for the desktop app (generic provider). Publish each release's installer + latest.yml to any static HTTPS host, then put its URL here and rebuild. Until then the app reports updates as unavailable. See UPDATES.md.",
+  "url": ""
+}

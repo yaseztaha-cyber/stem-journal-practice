@@ -1,0 +1,159 @@
+S’25 – G12 journals 
+ 
+Journal 1 
+ 
+I. 
+your challenge this year is to integrate three pieces of information, and 
+report the results. how can you apply the integration of information to 
+your future educational decisions to choose between different fields of 
+study? make a list of three pieces of information you will use, and 
+describe how to integrate at least two of them to make a decision. 
+ 
+II. 
+your team is starting the capstone project, which involves using multi-
+sensor integration. your teammate suggests focusing on the available 
+sensors first and then deciding on the problem to solve. explain to your 
+teammates two reasons why starting with the sensors might not be the 
+most effective way to approach this capstone project. refer to the 
+engineering design process (EDP) to support your explanation. 
+ 
+III. 
+based on your understanding of (CH.3.01) and the context of your 
+team’s capstone challenge, propose two testable scientific hypotheses 
+that could guide your team’s research and briefly describe how you 
+might test them. 
+ 
+IV. 
+sensors and neurons both transmit and process information. according 
+to (BI.3.01), explain how your understanding of the structure and 
+function of a neuron could help you choose one type of sensor over 
+another for your capstone project. provide a specific example to support 
+your explanation. 
+Journal 2 
+ 
+I. 
+after announcing the results of the journal exams, some students 
+complained that their grades were low, the main reason was dishonesty 
+in answering the journal questions, which will be so clear to the 
+evaluators due to their experience. what would you advise your 
+classmates to avoid that? you have to briefly present two pieces of 
+advice. 
+ 
+ 
+II. 
+Now you are selecting your prototype that achieves your design 
+requirements, select two design requirements that will be tested in your 
+prototype, and explain why you choose them and how they will be 
+achieved. 
+ 
+ 
+III. 
+according to CH.3.01, explain how you can apply the concepts of 
+precision and accuracy to the expected results you will get from your 
+sensors, giving an example for each concept, then explain how you can 
+apply the uncertainty concept to your readings to obtain the most 
+accurate results. 
+ 
+ 
+IV. 
+(PH.3.02) you have learned the parameters of oscillatory motion and its 
+applications. explain the effect of two of these parameters on the work 
+of the sensors that may be used in your integrated multi-sensory system 
+to monitor conditions associated with the problem you have chosen. 
+ 
+Journal 3 
+ 
+I. 
+One of your teammates suggests buying a readymade prototype. 
+Explain two reasons to convince him/her about the mistake he/she will 
+do, and two benefits of building up the prototype. 
+ 
+ 
+II. 
+From the experience you gained through several previous capstones, 
+explain two skills you have learned from your previous experience, and 
+how they can help you in constructing your prototype for this semester. 
+ 
+ 
+ 
+III. 
+In (CH.3.010) you study the low of conservation of energy. explain the 
+energy conservations happen while using each one of the three sensors 
+in your prototype starting from operating the sensor till you obtain the 
+results. 
+ 
+ 
+ 
+IV. 
+In (ES.3.02) you studied the use of GPS device to collect data. Explain 
+one similarity and difference between how GPS works and how the 
+sensor you are using works. 
+ 
+ 
+ 
+ 
+ 
+ 
+Journal 4 
+ 
+ 
+I. 
+most students are anxious when they have multiple tasks to accomplish. 
+explain three strategies to show how being a student at STEM schools 
+help you overcome this problem. 
+ 
+ 
+II. 
+your project deals with coding, you and your teammates have two ways 
+either using a ready-made codes or coding by yourselves. mention one 
+pros and one cons for each. 
+ 
+ 
+III. 
+according to (BI..3.03) which deals with predicting the symptoms that 
+would result from damage to specific areas of the brain, explain two 
+indicators in your prototype each one refers to a different problem and 
+suggest how to solve them. 
+ 
+ 
+IV. 
+you studied in (PH3.05) the concept of data signals be transmitted 
+through open air, and even outer space. from your study, explain three 
+similarities between encoding information and the sensors used in your 
+project. 
+ 
+ 
+ 
+ 
+Journal 5 
+ 
+I. 
+One of your teammates thinks that he is the most effective member of 
+the team. Explain two criteria you can judge his/her effectiveness.  
+ 
+ 
+ 
+II. 
+You are now in the communication process, but one of the teams has 
+found that they have wasted a lot of time, write a detailed agenda with 
+tasks for each member of the team to organize the rest of their time to 
+cover what they are delaying on. 
+ 
+ 
+ 
+III. 
+in CH3:04 stoichiometry numbers have great meaning may be express 
+the concentration, number of atoms or molecules or mathematical 
+relations between quantities of reactants and products, similarly the 
+numbers you obtained from your sensors have chemical and physical 
+meanings, give 2 examples from results you obtained and their chemical 
+explanation and conclusions 
+ 
+ 
+ 
+IV. 
+explain two points in your project showing, how can the principles of 
+geometrical optics, such as Snell’s law and total internal reflection, or 
+other concepts be applied to the design and implementation of a multi-
+sensory system for monitoring conditions associated with the chosen 
+problem to address. 
